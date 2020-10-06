@@ -1,5 +1,6 @@
 # gravity-forms-data-persistence-add-on-reloaded-v2
 === Gravity Forms Data Persistence Add-On Reloaded v2 ===
+
 Contributors: automataph
 Tags: gravity, form, data, field, persistence, add-on, addon, plugin, plug-in, extension
 Requires at least: 2.9.2
