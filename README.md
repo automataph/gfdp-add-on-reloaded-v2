@@ -1,13 +1,13 @@
 # gravity-forms-data-persistence-add-on-reloaded-v2
 === Gravity Forms Data Persistence Add-On Reloaded v2 ===
 
-Contributors: automataph
-Tags: gravity, form, data, field, persistence, add-on, addon, plugin, plug-in, extension
-Requires at least: 2.9.2
-Tested up to: 5.5.1
-Stable tag: 3.3.2
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+- Contributors: automataph
+- Tags: gravity, form, data, field, persistence, add-on, addon, plugin, plug-in, extension
+- Requires at least: 2.9.2
+- Tested up to: 5.5.1
+- Stable tag: 3.3.2
+- License: GPLv2 or later
+- License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
 This plugin makes your Gravity Forms data-persistent.
@@ -16,10 +16,10 @@ This plugin makes your Gravity Forms data-persistent.
 
 Consider this scenario:
 
-a) Your site uses multipage <a href="http://www.gravityforms.com/" target="_blank">Gravity Forms</a>.
-b) Your user logs in to the site and starts filling up a 5-step form.
-c) During the 3rd step, the user leaves without completely finishing the form.
-d) Some days later, the user comes back and logs in to see that his inputs are all gone!
+a. Your site uses multipage <a href="http://www.gravityforms.com/" target="_blank">Gravity Forms</a>.
+b. Your user logs in to the site and starts filling up a 5-step form.
+c. During the 3rd step, the user leaves without completely finishing the form.
+d. Some days later, the user comes back and logs in to see that his inputs are all gone!
 
 This happens because Gravity Forms by default does not save partially submitted forms.
 
