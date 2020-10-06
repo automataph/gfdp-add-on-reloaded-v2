@@ -1,6 +1,6 @@
 <?php
 /*
-  Plugin Name: Gravity Forms Data Persistence Add-On Reloaded
+  Plugin Name: Gravity Forms Data Persistence Add-On Reloaded v2
   Plugin URI: https://github.com/automataph/gravity-forms-data-persistence-add-on-reloaded-v2
   Description: This is a <a href="http://www.gravityforms.com/" target="_blank">Gravity Form</a> plugin. A big limitation with Gravity Form is, in case of big multipage forms, if you close or refresh the page during somewhere midle of some step. all the steps data will loose. this plugin solves that problem. This is an updated version of asthait's plugin.
   Author: AutomataPH
