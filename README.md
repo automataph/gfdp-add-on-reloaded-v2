@@ -58,7 +58,7 @@ If there is a specific feature you would like to sponsor, you can email me direc
 1. This is a screenshot from the *FORM SETTINGS* page. This is where you activated persistence to work with each form. 
 2. This is a screenshot from the *FORM FIELD ADVANCE* settings *tab*. This will allow you to disable persistence on a per field bases.
 
-== Changelog ==
+<h2>Changelog </h2>
 
 = 3.3.2 =
 1. Changed deprecated function 'get_currentuserinfo()' to 'wp_get_current_user()'
